@@ -6,8 +6,8 @@
 
 using namespace std;
 
-void hello();
 void test_createFile(const char *filePath);
 void test_getFileSize(const char *filePath);
-
+void test_openFile(const char *filePath);
+void test_deleteFie(const char *filePath);
 #endif // TEST
